@@ -8,3 +8,6 @@
  
 ## Eager to know How to handle deadlock in Operating System ? then check out following article ..
 <a target="_blank" href="https://www.codementor.io/@vishalmishra946/deadlock-handling-techniques-1qoo8fs4zl?published=1"><img src="https://github.com/akashpawar6474/images/blob/main/Deadlock.jpg" alt="Deadlock handling techniques"> 
+  
+## Want to know Difference between Paging and Segmentation in Operating System ? then check out following article ..
+<a target="_blank" href="https://hashnode.com/post/paging-vs-segmentation-in-operating-system-ckzrd33u90xnyr4s14hzq7v40"><img src="https://github.com/akashpawar6474/images/blob/main/Paging%20vs%20Segmentation.png" alt="Deadlock handling techniques"> 
