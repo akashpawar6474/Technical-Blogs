@@ -11,3 +11,6 @@
   
 ## Want to know Difference between Paging and Segmentation in Operating System ? then check out following article ..
 <a target="_blank" href="https://hashnode.com/post/paging-vs-segmentation-in-operating-system-ckzrd33u90xnyr4s14hzq7v40"><img src="https://github.com/akashpawar6474/images/blob/main/Paging%20vs%20Segmentation.png" alt="Deadlock handling techniques"> 
+  
+## How does Process Control Block works in Operating System? ? then check out following article ..
+<a target="_blank" href="https://devdojo.com/resh/how-does-pcb-work"><img src="https://github.com/akashpawar6474/images/blob/main/PCB.png" alt="Deadlock handling techniques"> 
