@@ -14,3 +14,6 @@
   
 ## How does Process Control Block works in Operating System? ? then check out following article ..
 <a target="_blank" href="https://devdojo.com/resh/how-does-pcb-work"><img src="https://github.com/akashpawar6474/images/blob/main/PCB.png" alt="Deadlock handling techniques"> 
+  
+## what is purpose of system calls in Operating system ? check out following article ..
+<a target="_blank" href="https://www.kaggle.com/getting-started/310266"><img src="https://github.com/akashpawar6474/images/blob/main/system%20calls%20in%20os.png" alt="Different Types of System Calls in OS">
