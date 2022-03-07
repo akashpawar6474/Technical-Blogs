@@ -17,3 +17,6 @@
   
 ## what is purpose of system calls in Operating system ? check out following article ..
 <a target="_blank" href="https://www.kaggle.com/getting-started/310266"><img src="https://github.com/akashpawar6474/images/blob/main/system%20calls%20in%20os.png" alt="Different Types of System Calls in OS">
+  
+## wishing to know how Booting and Dual Booting works in Operating system ? check out following article ..
+<a target="_blank" href="https://reshtechsavvy.substack.com/p/booting-and-dual-booting-of-operating?s=w"><img src="https://github.com/akashpawar6474/images/blob/main/booting%20in%20os.jpg" alt="Booting and Dual Booting of Operating System">
