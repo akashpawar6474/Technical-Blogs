@@ -20,3 +20,6 @@
   
 ## wishing to know how Booting and Dual Booting works in Operating system ? check out following article ..
 <a target="_blank" href="https://reshtechsavvy.substack.com/p/booting-and-dual-booting-of-operating?s=w"><img src="https://github.com/akashpawar6474/images/blob/main/booting%20in%20os.jpg" alt="Booting and Dual Booting of Operating System">
+  
+## want to know how RAM is different from ROM ? check out following article ..
+<a target="_blank" href="https://www.inflearn.com/blogs/1832"><img src="https://github.com/akashpawar6474/images/blob/main/ram%20vs%20rom.png" alt="RAM vs ROM">
