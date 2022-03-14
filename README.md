@@ -24,5 +24,5 @@
 ## want to know how RAM is different from ROM ? check out following article ..
 <a target="_blank" href="https://www.inflearn.com/blogs/1832"><img src="https://github.com/akashpawar6474/images/blob/main/ram%20vs%20rom.png" alt="RAM vs ROM">
   
-## is there any differnce between Hub and Switch in networking domain ? check out following article (translate to english at your if needed using google translate popup after opening link)..
+## is there any differnce between Hub and Switch in networking domain ? check out following article (translate to english if needed using google translate popup after opening link)..
 <a target="_blank" href="https://teletype.in/@perrygreen/hbnI-3eL9ce"><img src="https://github.com/akashpawar6474/images/blob/main/hub%20and%20switch.jpg" alt="Hub vs Switch">
