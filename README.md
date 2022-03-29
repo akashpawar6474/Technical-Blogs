@@ -26,3 +26,9 @@
   
 ## is there any differnce between Hub and Switch in networking domain ? check out following article (translate to english if needed using google translate popup after opening link)..
 <a target="_blank" href="https://teletype.in/@perrygreen/hbnI-3eL9ce"><img src="https://github.com/akashpawar6474/images/blob/main/hub%20and%20switch.jpg" alt="Hub vs Switch">
+  
+## What is process scheduling and response time ? check out following article ..
+<a target="_blank" href="https://zenn.dev/tonyedented/articles/69940132911c16"><img src="https://github.com/akashpawar6474/images/blob/main/process%20scheduling%20algo.jpg" alt="RAM vs ROM">
+  
+## What is page replacement algorithms in os ? check out following article ..
+<a target="_blank" href="https://www.changwoo.org/tonyedented@gmail.com/2022-03-28/Types-of-Page-Replacement-Algorithms-in-OS-bbf8ef485c"><img src="https://github.com/akashpawar6474/images/blob/main/page%20replacement%20algo.jpg" alt="RAM vs ROM">
